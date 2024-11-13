@@ -15,4 +15,11 @@
 </p>
 
 - Explore the `./utils` directory for custom-built utilities.
+- - `cwf` : Custom web framework!
+  - `fatcat` : Something related to tcpserver, i think?
+  - `fatdog` : Weather a tcpserver or tcpclient, with custom built commands, connects to `fatcat`.
+  - `lws` : I think, this is a thing related to webserver or ftpserver.
+  - `tcpc` : A tcp client utility!
+  - `tcps` : A tcp Server utility!
+  - `nat` : Something like `netcat` and netwrk nodes and ips listing and ports listing, like `nmap`.
 - Find all Ruby networking scripts in the root directory (`./`) and `./offensive-ruby` for specialized tools.

@@ -22,4 +22,5 @@
   - `tcpc` : A tcp client utility!
   - `tcps` : A tcp Server utility!
   - `nat` : Something like `netcat` and netwrk nodes and ips listing and ports listing, like `nmap`.
+  - `ping` : A shortcut for `ping` command in major operating systems.
 - Find all Ruby networking scripts in the root directory (`./`) and `./offensive-ruby` for specialized tools.

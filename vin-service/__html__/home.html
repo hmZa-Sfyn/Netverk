@@ -1,0 +1,32 @@
+
+<html>
+    <head>
+        <style>
+            body {
+                background: black;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style="font-family:'Courier New', Courier, monospace;font-size: 40px;color:lime">
+            API Server for {node_name} is running!
+        </h1>
+        
+        <hr>
+        
+        <h2>
+            You are now serving {node_name}, by {auth_username} running on {request.host}!
+        </h2>
+        
+        <br>
+        
+        <h3 style="font-family:'Courier New', Courier, monospace;font-size: 40px;color:lime">
+            Routes Are
+        </h3>
+        
+        <ul style="border-radius: 20px;border: 1px soldi #212529;padding: 10px;margin: 10px;">
+            {routes_to_list}
+        </ul>
+        
+    </body>
+</html>
